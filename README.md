@@ -1,4 +1,4 @@
-﻿# 🍷 VinLiber Business Intelligence: Chemical-Sensory Positioning & Margin Optimization
+# Enological Market Intelligence: Chemical-Sensory Positioning & Margin Optimization
 
 [![Language](https://img.shields.io/badge/Language-R%20Markdown%20%7C%20Supabase-276DC3?style=flat&logo=r)](https://www.r-project.org/)
 [![Domain](https://img.shields.io/badge/Domain-Enological%20BI%20%26%20Pricing-purple)](#)
@@ -12,7 +12,7 @@
 
 Wineries frequently set pricing and market positioning based on historical dogma or subjective tasting panels. They fail to identify the direct empirical bridge connecting enological chemistry to actual consumer willingness-to-pay.
 
-Developed for the **JEMIB Milano Bicocca 2026 Business Game**, this project delivers a complete enterprise BI pipeline:
+Engineered as a commercial business intelligence prototype, this project delivers an end-to-end analytical pipeline:
 - Ingests a catalog of **20 wines with 11 chemical indicators** alongside **2,000 consumer reviews** with demographic profiles.
 - Executes four sequential analytical phases: **Preprocessing → Chemical EDA → NLP & Clustering → Executive Export**.
 - Delivers clean, enriched datasets ready for real-time visualization in Power BI and Tableau to maximize product margins.
