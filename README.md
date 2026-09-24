@@ -3,6 +3,7 @@
 [![Language](https://img.shields.io/badge/Language-R%20Markdown%20%7C%20Supabase-276DC3?style=flat&logo=r)](https://www.r-project.org/)
 [![Domain](https://img.shields.io/badge/Domain-Enological%20BI%20%26%20Pricing-purple)](#)
 [![Report](https://img.shields.io/badge/Report-Executive%20BI%20Summary-red?logo=adobeacrobatreader)](businessgame_full.pdf)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 > End-to-end Business Intelligence pipeline: transforming 11 enological chemical parameters and 2,000 unstructured customer reviews into strategic pricing and product segmentation.
 
